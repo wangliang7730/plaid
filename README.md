@@ -3,6 +3,7 @@
 <img src="screenshots/plaid_demo.gif" width="400" align="right" hspace="20">
 
 *Design news and inspiration.*
+
 2015最火的项目 Plaid 是一款遵循 Material 风格设计的 Android App、 聚合了主流创意&设计相关资讯的新闻应用，想知道一款完整的 Material Design 的 App 应该怎么做？就看看它吧。
 
 Plaid is a showcase of [material design](https://www.google.com/design/spec/) that we hope you will
